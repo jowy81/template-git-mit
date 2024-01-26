@@ -1,5 +1,5 @@
 # template-git-mit
-basic template for git using MIT license
+Basic template for git using MIT license
 
 ## Installation
 
